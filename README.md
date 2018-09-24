@@ -11,6 +11,9 @@
 
 
 来自队友的竞赛小总结： https://www.jianshu.com/p/7d7257249731
+
 TF-IDF：https://blog.csdn.net/the_lastest/article/details/79093407
+
 Doc2vec：https://blog.csdn.net/Walker_Hao/article/details/78995591
+
 LSA: https://blog.csdn.net/mmc2015/article/details/46867773
